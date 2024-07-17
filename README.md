@@ -12,6 +12,13 @@ Below I have attached some of the data visualizations and data analysis i have d
 ![download1](https://github.com/user-attachments/assets/6fbf58b7-2c63-41e3-b5ff-07dd8e62a38f)
 ![download2](https://github.com/user-attachments/assets/f6573c9c-8341-4ac7-98d9-e1742dd5b826)
 ![download3](https://github.com/user-attachments/assets/b66df68d-3ff5-4724-9ae1-9d1b6f536e42)
+# Contributing
+Contributions are welcome! Please create a pull request or open an issue for any improvements or bug fixes.
 
+# License
+CC0: Public Domain
+
+# Contact Information
+For any questions or feedback, please contact SriTejaRao Gade at sritejarao1@gmail.com
 
 
