@@ -1,5 +1,9 @@
 # Netflix-Stock-Price-Prediction
  Netflix Stock PricePrediction using Time Series
+ 
+# Overview
+This project involves analyzing and predicting the stock prices of Netflix (NFLX) using historical data and various machine learning techniques. The goal is to build a model that can forecast future stock prices based on past performance, providing valuable insights for investors and stakeholders. The dataset includes daily stock prices of Netflix, capturing essential attributes such as Open, High, Low, Close, Volume, and Date.
+
 # About Dataset
 The Dataset contains data for 5 years ie. from 5th Feb 2018 to 5th Feb 2022
 
